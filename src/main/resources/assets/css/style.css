@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #106eea;
+  color: #198754;
 }
 
 .nav-menu .drop-down ul {
@@ -455,7 +455,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 75vh;
-  background: url("../img/bsa/bsa_splash.jpg") top left;
+  background: url("../img/bsa/headerpng.png") top left;
   background-size: cover;
   position: relative;
 }
@@ -512,7 +512,7 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #106eea;
+  background: #198754;
 }
 
 #hero .btn-get-started:hover {
@@ -1055,7 +1055,7 @@ section {
 }
 
 .testimonials .owl-dot.active {
-  background-color: #106eea !important;
+  background-color: #198754 !important;
 }
 
 @media (min-width: 1024px) {
