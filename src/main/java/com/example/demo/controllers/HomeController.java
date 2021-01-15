@@ -12,4 +12,9 @@ public class HomeController {
         return "home";
     }
 
+    @GetMapping("/index")
+    public String indexPage(){
+        return "index";
+    }
+
 }
