@@ -12,6 +12,13 @@ public class HomeController {
         return "home";
     }
 
-//    Test commit; commits not showing on github
+
+    @GetMapping("/index")
+    public String indexPage(){
+        return "index";
+    }
+
+//  Test commit; recent commits are not showing up on github
+
 
 }
