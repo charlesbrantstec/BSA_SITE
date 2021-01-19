@@ -716,7 +716,7 @@ section {
 }
 
 .featured-services .icon-box:hover::before {
-  background: #106eea;
+  background: #198853;
   top: 0;
   border-radius: 0px;
 }
